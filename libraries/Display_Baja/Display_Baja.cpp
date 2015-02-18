@@ -1,8 +1,7 @@
 /*
   Display_Baja.h Implementadtion
 
-  Last Edit: Craig Piunno 4/15/14
-  			 Ted Nowak 9/29/2014
+  Last Edit: Theodore Nowak 02/19/2015
 */
 
 #include "Arduino.h"
